@@ -1,0 +1,12 @@
+{
+  "myPort": 1999,
+  "websocketPort": 2000,
+  "where": {
+      "flUseLocalFilesystem": true,
+      "privatePath": "/data/privateFiles/",
+      "publicPath": "/data/publicFiles/"
+  },
+  "updates": {
+    "enabled": false
+  }
+}
